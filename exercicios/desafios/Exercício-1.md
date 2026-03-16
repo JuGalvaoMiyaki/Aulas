@@ -1,4 +1,4 @@
-# Exercício 1 - Instalando e verificando Docker
+# Exercício 1 - Instalando e verificando Docker.
 
 Foi solicitado a você que construa uma imagem em Docker, você se prontificou a faze-lo, porém ainda não possui os requisitos minimos para inciar o projeto.
 
@@ -8,8 +8,8 @@ Como você vai conseguir validar na sua máquina se já consegue iniciar o proje
 
 ------------------------------------------------------------------------------------------
 
-1 - Instale o DockerHub na sua máquina local.
-2 - Verifique se está instalado corretamente.
+**1 - Instale o DockerHub na sua máquina local.**
+**2 - Verifique se está instalado corretamente.**
 
 
 * Utilize a documentação Docker para estudo e auxilio: https://docs.docker.com/docker-hub/quickstart/
