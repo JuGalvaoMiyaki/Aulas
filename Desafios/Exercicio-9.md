@@ -1,4 +1,4 @@
-# Exercício 7: Investigando uma Imagem - Modo Detetive
+# Exercício 9: Investigando uma Imagem - Modo Detetive
 
 **📖 Cenário**
 

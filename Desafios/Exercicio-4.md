@@ -1,4 +1,4 @@
-##4. Exercicio 4 - Construindo um container com um servidor web Nginx
+# Exercicio 4 - Construindo um container com um servidor web Nginx
 
 **PARTE 1:**
 ----------------------------------------------

@@ -1,8 +1,8 @@
 # Exercício 7 - Sua imagem Docker com aplicação Flask
 
-```bash
+
 Você acaba de entrar no time de desenvolvimento do Bentão e sua primeira tarefa é criar um container Docker para a nova aplicação Flask da empresa. O time de infraestrutura disponibilizou o código da aplicação e pediu para você containerizar e publicar no Docker Hub para que outros times possam testar.
-```
+
 
 **Sua missão:**
 

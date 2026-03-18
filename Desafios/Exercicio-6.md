@@ -1,4 +1,4 @@
-# Desafio 06: 
+# Exercício 6 – Criar e Publicar Imagem no Docker Hub: 
 
 **Crie um Dockerfile**
 ```

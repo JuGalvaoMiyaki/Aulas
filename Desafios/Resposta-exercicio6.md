@@ -1,4 +1,5 @@
-# Desafio 06 – Criar e Publicar Imagem no Docker Hub
+# Resposta Exericicio 6 – Criar e Publicar Imagem no Docker Hub
+
 ```bash
 Parte 1 – Criar a imagem
 Dockerfile (usando Alpine):

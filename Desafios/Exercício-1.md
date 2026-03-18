@@ -9,6 +9,7 @@ Como você vai conseguir validar na sua máquina se já consegue iniciar o proje
 ------------------------------------------------------------------------------------------
 
 **1 - Instale o DockerHub na sua máquina local.**
+
 **2 - Verifique se está instalado corretamente.**
 
 

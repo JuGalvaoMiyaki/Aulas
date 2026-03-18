@@ -1,4 +1,4 @@
-# Respostas - Exercício 4: Container com Nginx
+# Resposta - Exercício 4: Container com Nginx
 
 ## PARTE 1: Container com Aplicação Python
 

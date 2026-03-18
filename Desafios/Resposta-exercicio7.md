@@ -1,6 +1,7 @@
 # Resposta do Exercício 7 - Sua imagem Docker com aplicação Flask - Passo a Passo Completo
 
 **📁 Estrutura de arquivos**
+
 ```bash
 Crie uma pasta para o projeto com esta estrutura:
 
