@@ -1,4 +1,4 @@
-## Resposta do Exercício-3 Hello World em Docker
+# Resposta do Exercício-3 Hello World em Docker
 
 **1. Clonar o repositório:**
 
